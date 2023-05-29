@@ -1,8 +1,8 @@
 [build-system]
-requires = ["setuptools>=42"]
+requires = ["setuptools>=61"]
 build-backend = "setuptools.build_meta"
 [project]
-name = "andreani_aa_tools"
+name = "andreani_aa_testing"
 version = "0.0.20"
 authors = [
   { name = "Gabriel Aranda", email = "garanda@andreani.com" },
