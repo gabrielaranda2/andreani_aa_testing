@@ -1,6 +1,6 @@
 import time
 
-class Testing():
+class testing():
     def __init__(self, first_function, second_function, dataset):
         self.first_function = first_function
         self.second_function = second_function
